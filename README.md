@@ -17,7 +17,7 @@ The dashboard consists of **4 interactive pages**:
 4. **Media Ads Campaigns Page** – Platforms analysis (Instagram, Facebook, TikTok, Klaviyo), budget allocation, conversions, and impressions vs conversions.
    #### 📈 Dashboard
    ![Dashboard Overview](images/2025-08-07(19)-Copy.png)
-   ![Dashboard Overview](images/2025-08-13(20).png)
+   ![Dashboard Overview](2025-08-07(21).png)
 
 ---
 
