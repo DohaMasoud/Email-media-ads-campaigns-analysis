@@ -6,17 +6,17 @@ It focuses on analyzing **digital marketing campaigns** by integrating data from
 
 The dashboard consists of **4 interactive pages**:
 1. **Overview Page** – General KPIs (CTR, CPC, CPA, Conversion Rate, Campaign Cost, Impressions).
-   ## 📈 Dashboard
-   ![Dashboard Overview](images/2025-08-13(10).png) 
-3. **Comparison Page** – Comparison between **Email Campaigns** and **Media Ads Campaigns**.
-4.  ## 📈 Dashboard
-   ![Dashboard Overview](images/2025-08-13(10).png) 
-5. **Email Campaigns Page** – Metrics like Bounce Rate, Unsubscribe Rate, Spam Complaint, Open Rate, ROI, and Revenue analysis by customer status.  
- ## 📈 Dashboard
-   ![Dashboard Overview](images/2025-08-13(10).png) 
-6. **Media Ads Campaigns Page** – Platforms analysis (Instagram, Facebook, TikTok, Klaviyo), budget allocation, conversions, and impressions vs conversions.
- ## 📈 Dashboard
-   ![Dashboard Overview](images/2025-08-13(10).png) 
+   #### 📈 Dashboard
+   ![Dashboard Overview](images/2025-08-07(16)-Copy.png) 
+2. **Comparison Page** – Comparison between **Email Campaigns** and **Media Ads Campaigns**.
+   #### 📈 Dashboard
+   ![Dashboard Overview](images/2025-08-07(17)-Copy.png) 
+3. **Email Campaigns Page** – Metrics like Bounce Rate, Unsubscribe Rate, Spam Complaint, Open Rate, ROI, and Revenue analysis by customer status.  
+   #### 📈 Dashboard
+   ![Dashboard Overview](images/2025-08-07(18)-Copy.png) 
+4. **Media Ads Campaigns Page** – Platforms analysis (Instagram, Facebook, TikTok, Klaviyo), budget allocation, conversions, and impressions vs conversions.
+   #### 📈 Dashboard
+   ![Dashboard Overview](images/2025-08-13(19).png) 
 
 ---
 
